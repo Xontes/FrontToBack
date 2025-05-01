@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FrontToBackp2.props" />
+</Project>
