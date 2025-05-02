@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrontToBackp2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97a4742a0f71e464b71888051317e05a6a59c2a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+736ff51850ad21bb269c0b39147211647d6d9b21")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrontToBackp2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrontToBackp2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
